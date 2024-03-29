@@ -15,7 +15,7 @@
                                               ..............  ...           
                                               ............   .,,           
                                                   ..,..........     
-
+                                                     T I P S
 A collection of Python examples and tips. Any programs with an external data dependency are downloaded within the program.
 
 Date          | Program       | Description
