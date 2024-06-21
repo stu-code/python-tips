@@ -25,3 +25,4 @@ Date          | Program       | Description
 03/15/24 | [sql_with_pandas.py](https://github.com/stu-code/python-tips/blob/main/sql_with_pandas.py) | Merge two Pandas dataframes with SQL
 03/29/24 | [sql_with_polars.py](https://github.com/stu-code/python-tips/blob/main/sql_with_polars.py) | Merge two Polars dataframes with SQL
 05/10/24 | [numpy_funcs_with_polars.py](https://github.com/stu-code/python-tips/blob/main/numpy_funcs_with_polars.py) | An example that converts a calculation that uses NumPy functions in Pandas to Polars
+06/21/24 | [merge_asof_tolerance.py](https://github.com/stu-code/python-tips/blob/main/merge_asof_tolerance.py) | How to use time tolerance to perform a complex join with merge_asof
