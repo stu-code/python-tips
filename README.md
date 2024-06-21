@@ -16,11 +16,12 @@
                                               ............   .,,           
                                                   ..,..........
                                                   
-                                                     T I P S
+                                               P Y T H O N  T I P S
 A collection of Python examples and tips. Any programs with an external data dependency are downloaded within the program.
 
 Date          | Program       | Description
 ------------- | ------------- | ------------- 
 03/08/24 | [xgboost_best_iterations.py](https://github.com/stu-code/python-tips/blob/main/xgboost_best_iterations.py) | Dynamically select the best iterations to use on your training data with XGBoost
-03/15/24 | [sql_with_pandas.py](https://github.com/stu-code/python-tips/blob/main/sql_with_pandas.py) | Merge two pandas dataframes with SQL
-03/29/24 | [sql_with_polars.py](https://github.com/stu-code/python-tips/blob/main/sql_with_polars.py) | Merge two polars dataframes with SQL
+03/15/24 | [sql_with_pandas.py](https://github.com/stu-code/python-tips/blob/main/sql_with_pandas.py) | Merge two Pandas dataframes with SQL
+03/29/24 | [sql_with_polars.py](https://github.com/stu-code/python-tips/blob/main/sql_with_polars.py) | Merge two Polars dataframes with SQL
+05/10/24 | [numpy_funcs_with_polars.py](https://github.com/stu-code/python-tips/blob/main/numpy_funcs_with_polars.py) | An example that converts a calculation that uses NumPy functions in Pandas to Polars
