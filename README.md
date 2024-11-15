@@ -19,10 +19,11 @@
                                                P Y T H O N  T I P S
 A collection of Python examples and tips. Any programs with an external data dependency are downloaded within the program.
 
-Date          | Program       | Description
-------------- | ------------- | ------------- 
-03/08/24 | [xgboost_best_iterations.py](https://github.com/stu-code/python-tips/blob/main/xgboost_best_iterations.py) | Dynamically select the best iterations to use on your training data with XGBoost
-03/15/24 | [sql_with_pandas.py](https://github.com/stu-code/python-tips/blob/main/sql_with_pandas.py) | Merge two Pandas dataframes with SQL
-03/29/24 | [sql_with_polars.py](https://github.com/stu-code/python-tips/blob/main/sql_with_polars.py) | Merge two Polars dataframes with SQL
-05/10/24 | [numpy_funcs_with_polars.py](https://github.com/stu-code/python-tips/blob/main/numpy_funcs_with_polars.py) | An example that converts a calculation that uses NumPy functions in Pandas to Polars
-06/21/24 | [merge_asof_tolerance.py](https://github.com/stu-code/python-tips/blob/main/merge_asof_tolerance.py) | How to use time tolerance to perform a complex join with merge_asof
+Date          | Program       | Description   | Tags 
+------------- | ------------- | ------------- | ------------- 
+03/08/24 | [xgboost_best_iterations.py](https://github.com/stu-code/python-tips/blob/main/xgboost_best_iterations.py) | Dynamically select the best iterations to use on your training data with XGBoost | Data Science, Gradient Boosting, XGBoost
+03/15/24 | [sql_with_pandas.py](https://github.com/stu-code/python-tips/blob/main/sql_with_pandas.py) | Merge two Pandas dataframes with SQL | Data Engineering, Pandas, SQL
+03/29/24 | [sql_with_polars.py](https://github.com/stu-code/python-tips/blob/main/sql_with_polars.py) | Merge two Polars dataframes with SQL | Data Engineering, Polars, SQL
+05/10/24 | [numpy_funcs_with_polars.py](https://github.com/stu-code/python-tips/blob/main/numpy_funcs_with_polars.py) | An example that converts a calculation that uses numpy functions in Pandas to Polars | Data Engineering, Numpy, Pandas, Polars
+06/21/24 | [merge_asof_tolerance.py](https://github.com/stu-code/python-tips/blob/main/merge_asof_tolerance.py) | How to use time tolerance to perform a complex join with merge_asof | Data Engineering, Data Science, Join, Merge, Pandas, Temporal
+11/01/24 | [polars_selectors_api.ipynb](https://github.com/stu-code/python-tips/blob/main/polars_selectors_api.ipynb) | Examples of how to use the Polars selectors API to conveniently select columns | Data Engineering, Data Science, Polars
