@@ -14,3 +14,4 @@ Date          | Program       | Description   | Tags
 11/15/24 | [hyperparameter_autotuning.ipynb](./hyperparameter_autotuning.ipynb) | Use Bayesian optimization from Optuna to easily perform hyperparameter autotuning | AI, Data Science, Machine Learning, Optimization
 02/28/25 | [model_ensembling.ipynb](./model_ensembling.ipynb) | A simple example of how to use ensembling to combine multiple models | AI, Data Science, Machine Learning, Scikit-learn
 04/25/25 | [timestamp_range_filtering.ipynb](./timestamp_range_filtering.ipynb) | How to filter timestamps in one dataframe based on valid start/end ranges in another dataframe using Polars and Pandas | Data Engineering, Data Science, Pandas, Polars
+07/10/25 | [pivot.ipynb](./pivot.ipynb) | Pivoting a table from long to wide, with and without aggregation, while handling duplicates in Polars and Pandas | Data Engineering, Data Science, Pandas, Polars
